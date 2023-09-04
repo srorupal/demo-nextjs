@@ -11,14 +11,14 @@
    Open your terminal and paste the below command:
      npx create-next-app@latest
    On installation, you'll see the following prompts:
-   What is your project named? my-app
-   Would you like to use TypeScript? No / Yes
-   Would you like to use ESLint? No / Yes
-   Would you like to use Tailwind CSS? No / Yes
-   Would you like to use `src/` directory? No / Yes
-   Would you like to use App Router? (recommended) No / Yes
-   Would you like to customize the default import alias? No / Yes
-   What import alias would you like configured? @/*
+      - What is your project named? my-app
+      - Would you like to use TypeScript? No / Yes
+      - Would you like to use ESLint? No / Yes
+      - Would you like to use Tailwind CSS? No / Yes
+      - Would you like to use `src/` directory? No / Yes
+      - Would you like to use App Router? (recommended) No / Yes
+      - Would you like to customize the default import alias? No / Yes
+      - What import alias would you like configured? @/*
 
    Snapshot of the above installation for demo-nextjs project
     ![Install_NextJS](https://github.com/srorupal/demo-nextjs/assets/13235981/9256692c-f843-444d-91aa-f208c3b4ba1f)
