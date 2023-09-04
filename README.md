@@ -9,7 +9,8 @@
 2) Create nextJs app from the below command:
 
    Open your terminal and paste the below command:
-     npx create-next-app@latest
+      - npx create-next-app@latest
+        
    On installation, you'll see the following prompts:
       - What is your project named? my-app
       - Would you like to use TypeScript? No / Yes
