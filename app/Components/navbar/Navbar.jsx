@@ -19,11 +19,6 @@ const links = [
     },
     {
         id: 4,
-        title: "Blog",
-        url: "/blog"
-    },
-    {
-        id: 5,
         title: "About",
         url: "/about"
     },
@@ -42,7 +37,7 @@ const links = [
 const Navbar = () => {
     return (
         <div>
-            <Link href="/home">Footer</Link>
+            <Link href="/">Demo</Link>
             <div>
                 {links.map((link)=>
                 <Link key={link.id} href={link.url}>{link.title}</Link>
